@@ -1,0 +1,19 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dplaisimondce/Flashcard-Generator2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dplaisimondce/Flashcard-Generator2/issues"
+  },
+  "homepage": "https://github.com/dplaisimondce/Flashcard-Generator2#readme"
+}
